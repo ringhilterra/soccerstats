@@ -1,3 +1,4 @@
+#author ryan
 soccerStatsAll <- function(year) {
     control <- soccerStatsControl(year)
     discipline <- soccerStatsDiscipline(year)
